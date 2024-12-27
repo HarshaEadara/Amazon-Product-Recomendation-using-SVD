@@ -1,4 +1,4 @@
-# Amazon-Product-Recomendation-using-SVD
+# Amazon Product Recommendation using SVD
 This project implements a collaborative filtering approach to build an Amazon product recommendation system using Singular Value Decomposition (SVD). The recommendation system is designed to provide personalized product suggestions to users based on their historical interactions with products. By leveraging advanced machine learning techniques, this system aims to enhance the user experience on Amazon by suggesting relevant products that users are likely to be interested in, thereby increasing user engagement and satisfaction. The project demonstrates the effectiveness of using SVD in a real-world e-commerce context, providing a robust framework that can be scaled and applied to other recommendation tasks.
 
 ## Table of Contents
